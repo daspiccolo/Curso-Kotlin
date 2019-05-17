@@ -17,8 +17,8 @@ fun main(args:Array<String>){
 
     println("${AMARELO}-------------FICHA FUNCIONAL------------")
 
-    println("$AMARELO Nome:     $nome")
-    println("$AMARELO Nascimento:     $ano")
-    println("$AMARELO Salario:     R$$sal")
+    println("$AMARELO Nome:     $AZUL$nome")
+    println("$AMARELO Nascimento:     $AZUL$ano")
+    println("$AMARELO Salario:     $AZULR$$sal")
     println("$AMARELO----------------------------------------")
 }
